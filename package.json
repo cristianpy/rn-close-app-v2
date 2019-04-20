@@ -1,7 +1,7 @@
 
 {
-  "name": "react-native-close-app",
-  "version": "1.0.4",
+  "name": "rn-close-app-v2",
+  "version": "1.0.5",
   "description": "React Native Close App",
   "main": "index.js",
   "keywords": [
@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jundat95/react-native-close-app.git"
+    "url": "https://github.com/cristianpy/rn-close-app-v2.git"
   },
   "license": "MIT",
   "peerDependencies": {
